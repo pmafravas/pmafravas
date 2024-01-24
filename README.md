@@ -1,7 +1,7 @@
 <h1 align="center">Hi stranger! I'm Pedro!</h1>
 <h3 align="center">Atualmente cursando <b>Engenharia de computação</b></h3>
 
-- 🔭 I’m currently working on: [Projeto IOT](https://github.com/gmvas/Projeto-IOT)
+- 🔭 I’m currently working on: [Projeto Íris](https://github.com/paulatalim/Iris)
 
 - 🌱 I’m currently learning: **Java, C# and others...**
 

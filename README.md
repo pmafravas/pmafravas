@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: [Projeto IOT](https://github.com/gmvas/Projeto-IOT)
 
-- 🌱 I’m currently learning: **Java, C# a others...**
+- 🌱 I’m currently learning: **Java, C# and others...**
 
 - 🤝 I’m looking for help with: **Nothing for now! 😳**
 

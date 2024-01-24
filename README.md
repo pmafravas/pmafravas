@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on: [Projeto IOT](https://github.com/gmvas/Projeto-IOT)
 
-- 🌱 I’m currently learning: **Java, C# e outros...**
+- 🌱 I’m currently learning: **Java, C# a others...**
 
-- 🤝 I’m looking for help with: **No momento nada! 😳**
+- 🤝 I’m looking for help with: **Nothing for now! 😳**
 
 - 📫 How to reach me: **pedromvas@outlook.com**
 
-- ⚡ Fun fact - **Já fiz curso de Manutenção Automotiva!**
+- ⚡ Fun fact - **I've done a Automotive Maintenance course! | Já fiz curso de Manutenção Automotiva!**
   
 <h1 align="center">  </h1>
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Java, C# and others...**
 
-- 🤝 I’m looking for help with: **Firebase/Azure database & authentication 😥**
+- 🤝 I’m looking for help with: **Nothign for now! 😊**
 
 - 📫 How to reach me: **pedromvas@outlook.com**
 

@@ -1,11 +1,10 @@
 <h1 align="center">Hi stranger! I'm Pedro!</h1>
 <h3 align="center">Atualmente cursando <b>Engenharia de computação</b></h3>
 
-- 🔭 I’m currently working on: [Projeto Íris](https://github.com/paulatalim/Iris)
+- 🔭 I’m currently working on: Nothing...
+- 🌱 I’m currently learning: **C# and Python**
 
-- 🌱 I’m currently learning: **Java, C# and others...**
-
-- 🤝 I’m looking for help with: **Nothign for now! 😊**
+- 🤝 I’m looking for help with: **C#**
 
 - 📫 How to reach me: **pedromvas@outlook.com**
 
@@ -13,7 +12,7 @@
   
 <h1 align="center">  </h1>
 
-[![Gmvas' GitHub stats](https://github-readme-stats.vercel.app/api?username=gmvas&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) <img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
+[![Gmvas' GitHub stats](https://github-readme-stats.vercel.app/api?username=pmafravas&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
 
 <img align="left" alt="Coding" width="40" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 <h3 align="left">Languages and Tools:</h3> 

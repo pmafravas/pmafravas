@@ -2,7 +2,7 @@
 <h3 align="center">Atualmente cursando <b>Engenharia de computação</b></h3>
 
 - 🔭 I’m currently working on: Nothing...
-- 🌱 I’m currently learning: **C# and Python**
+- 🌱 I’m currently learning: **ASP NET and C#**
 
 - 🤝 I’m looking for help with: **C#**
 
@@ -12,7 +12,7 @@
   
 <h1 align="center">  </h1>
 
-[![Gmvas' GitHub stats](https://github-readme-stats.vercel.app/api?username=pmafravas&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
+[![PMafraVas' GitHub stats](https://github-readme-stats.vercel.app/api?username=pmafravas&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
 
 <img align="left" alt="Coding" width="40" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 <h3 align="left">Languages and Tools:</h3> 

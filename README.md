@@ -1,10 +1,10 @@
 <h1 align="center">Hi stranger! I'm Pedro!</h1>
 <h3 align="center">Atualmente cursando <b>Engenharia de computação</b></h3>
 
-- 🔭 I’m currently working on: Nothing...
-- 🌱 I’m currently learning: **ASP NET and C#**
+- 🔭 I’m currently working on: D-Lock (yet to come)
+- 🌱 I’m currently learning: **ASP NET, .NET Core and C#**
 
-- 🤝 I’m looking for help with: **C#**
+- 🤝 I’m looking for help with: **Blazor and MAUI**
 
 - 📫 How to reach me: **pedromvas@outlook.com**
 
